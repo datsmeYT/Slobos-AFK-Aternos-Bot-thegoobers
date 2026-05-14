@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gooberz.aternos.me",
+    "ip": "gooberz.aternos.me:45921",
     "port": 45921,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
